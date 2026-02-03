@@ -1,0 +1,7 @@
+{
+  "name": "Sukie AI - The Sales Warlord",
+  "description": "A high-performance sales training and objection handling assistant based on the Sukie Su methodology. Features real-time battle modes, cognitive reframing scripts, and AI-powered roleplay.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
